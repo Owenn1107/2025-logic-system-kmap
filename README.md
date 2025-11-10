@@ -6,6 +6,6 @@ The tool allows 2~4 variables of inputs
 
 ```
 - k-map.cpp           # main func w/ test cases  
-- k-map_submit.cpp    # mian func for online judge
+- k-map_submit.cpp    # for online judge
 ```
 The rests are testing files for costom functions  
